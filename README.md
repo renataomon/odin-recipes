@@ -1,4 +1,7 @@
-<h1 align="center"> odin-recipes </h1>
+<h1 align="center"> Odin-recipes </h1>
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 <h4> The Odin Project </h1>
 Project: Recipes
 Foundations Course
@@ -27,5 +30,15 @@ This is a first project for [Odin Project](https://www.theodinproject.com) in Fu
 		- Banana Cake (in work)
 		- Cheese soup (in work)
 		- Chilli meat (in work)
-		
+
+## ✔️ Techniques and technologies used
+
+- ``VSCode``
+- ``Linux Terminal``
+- ``HTML``
+
+
+## 📁 Webpage access
+You can access the project webpage by clicking [here](https://renataomon.github.io/odin-recipes/).
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=In%20Development&color=GREEN&style=for-the-badge)
