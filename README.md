@@ -1,30 +1,31 @@
-# odin-recipes
-The Odin Project
+<h1 align="center"> odin-recipes </h1>
+<h4> The Odin Project </h1>
 Project: Recipes
 Foundations Course
 
-This is a first project for Odin Project in Fundations.
+This is a first project for [Odin Project](https://www.theodinproject.com) in Fundations.
 
-Skills Progress: 42% Complete
-First, I'm appliyng the initial knowledge to create a HTML page, based on:
+1. Skills Progress: 42% Complete.
+
+	I'm appliyng the initial knowledge to create a HTML page, based on:
     - Create and manage folder and files with terminal
-    - headers <h1>...
-    - Paragraphs <p>
-    - Links <a>
-    - Images <img>
-    - unordered list <ul>
-    - ordered list <ol>
+    - headers
+    - Paragraphs
+    - Links
+    - Images
+    - unordered list
+    - ordered list
     - Git (status / add . / commit / log / push origin main)
 
-The project consist to create a HTML (just HTML) pages of recipes.
-
-I created 3 recipes, in 2 languages:
-1. Portuguese:
-    1.1. Bolo de banana
-    1.2. Sopa de queijo (in work)
-    1.3. Chilli com carne (in work)
-
-2. English:
-    2.1. Banana Cake (in work)
-    2.2. Cheese soup (in work)
-    2.3. Chilli meat (in work)
+	The project consist to create a HTML (just HTML) pages of recipes.
+	I created 3 recipes, in 2 languages:
+	1. Portuguese:
+		- Bolo de banana
+		- Sopa de queijo (in work)
+		- Chilli com carne (in work)
+	2. English:
+		- Banana Cake (in work)
+		- Cheese soup (in work)
+		- Chilli meat (in work)
+		
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=In%20Development&color=GREEN&style=for-the-badge)
