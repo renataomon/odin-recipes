@@ -1,6 +1,6 @@
 <h1 align="center"> Odin-recipes </h1>
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  under construction  :construction:
 </h4>
 <h4> The Odin Project </h1>
 Project: Recipes
