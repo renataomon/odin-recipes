@@ -6,11 +6,11 @@
 Project: Recipes
 Foundations Course
 
-This is a first project for [Odin Project](https://www.theodinproject.com) in Fundations.
+This is a first project for [Odin Project](https://www.theodinproject.com) in Foundations.
 
 1. Skills Progress: 42% Complete.
 
-	I'm appliyng the initial knowledge to create a HTML page, based on:
+	I'm applying the initial knowledge to create a HTML page, based on:
     - Create and manage folder and files with terminal
     - headers
     - Paragraphs
@@ -24,12 +24,12 @@ This is a first project for [Odin Project](https://www.theodinproject.com) in Fu
 	I created 3 recipes, in 2 languages:
 	1. Portuguese:
 		- Bolo de banana
-		- Sopa de queijo (in work)
-		- Chilli com carne (in work)
+		- Sopa de queijo
+		- Chilli com carne
 	2. English:
-		- Banana Cake (in work)
-		- Cheese soup (in work)
-		- Chilli meat (in work)
+		- Banana Cake
+		- Cheese soup
+		- Chilli meat
 
 ## ✔️ Techniques and technologies used
 
@@ -41,4 +41,4 @@ This is a first project for [Odin Project](https://www.theodinproject.com) in Fu
 ## 📁 Webpage access
 You can access the project webpage by clicking [here](https://renataomon.github.io/odin-recipes/).
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=In%20Development&color=GREEN&style=for-the-badge)
+![Badge in Development](http://img.shields.io/static/v1?label=STATUS&message=In%20Development&color=GREEN&style=for-the-badge)
