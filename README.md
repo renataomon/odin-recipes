@@ -8,9 +8,9 @@ Foundations Course
 
 This is a first project for [Odin Project](https://www.theodinproject.com) in Foundations.
 
-1. Skills Progress: 42% Complete.
+1. Skills Progress: 46% Complete.
 
-	I'm applying the initial knowledge to create a HTML page, based on:
+	I'm applying the initial knowledge to create a HTML/CSS page, based on:
     - Create and manage folder and files with terminal
     - headers
     - Paragraphs
@@ -19,8 +19,9 @@ This is a first project for [Odin Project](https://www.theodinproject.com) in Fo
     - unordered list
     - ordered list
     - Git (status / add . / commit / log / push origin main)
+	- CSS class / ID / selectors / cascades
 
-	The project consist to create a HTML (just HTML) pages of recipes.
+	The project consist to create a HTML and CSS pages of recipes.
 	I created 3 recipes, in 2 languages:
 	1. Portuguese:
 		- Bolo de banana
@@ -36,6 +37,7 @@ This is a first project for [Odin Project](https://www.theodinproject.com) in Fo
 - ``VSCode``
 - ``Linux Terminal``
 - ``HTML``
+- ``CSS``
 
 
 ## 📁 Webpage access
